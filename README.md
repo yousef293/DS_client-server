@@ -13,3 +13,7 @@ Clients can send messages to the server.
  Clients can fetch the entire chat history after sending a message.
  Chat continues until the user types `exit` or presses `Ctrl+C`.
  Error handling for lost server connection
+
+
+## demo link
+./demo.mp4
