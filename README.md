@@ -16,4 +16,4 @@ Clients can send messages to the server.
 
 
 ## demo link
-./demo.mp4
+demo.mp4
